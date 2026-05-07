@@ -18,7 +18,6 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-shariyaansari.github.io-0d1117?style=flat-square&logo=github&logoColor=white)](https://shariyaansari.github.io)
 [![LinkedIn](https://img.shields.io/badge/linkedin-shariya--ansari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shariya-ansari)
 [![Email](https://img.shields.io/badge/email-shariyaansari8425@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shariyaansari8425@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=shariyaansari&style=flat-square&color=6366f1&label=profile+views)
 
 </div>
 
