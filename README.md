@@ -28,9 +28,8 @@
 name:     Shariya Ansari
 role:     Full Stack Developer
 focus:    Building & optimizing efficient web applications
-learning: Machine Learning (TensorFlow, Pandas, scikit-learn)
+learning: Machine Learning
 stack:    React · Node.js · TypeScript · MongoDB · AWS · Docker
-motto:    "Ship fast. Scale smart. Break nothing in prod."
 ```
 
 ---
