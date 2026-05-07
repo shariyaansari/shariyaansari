@@ -15,7 +15,6 @@
 
 **`Full Stack Developer`** · **`Mumbai, India`** · **`Open to Opportunities`**
 
-[![Portfolio](https://img.shields.io/badge/portfolio-shariyaansari.github.io-0d1117?style=flat-square&logo=github&logoColor=white)]
 [![LinkedIn](https://img.shields.io/badge/linkedin-shariya--ansari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shariya-ansari)
 [![Email](https://img.shields.io/badge/email-shariyaansari8425@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shariyaansari8425@gmail.com)
 
